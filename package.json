@@ -1,0 +1,24 @@
+{
+  "name": "tumblrd",
+  "version": "0.0.1",
+  "description": "Download Tumblr pictures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tumblr",
+    "cli",
+    "download"
+  ],
+  "bin": {
+    "tumblrd": "./bin/cli"
+  },
+  "author": "Anthony Ringoet",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^0.1.0",
+    "superagent": "^0.18.0",
+    "async": "^0.9.0"
+  }
+}

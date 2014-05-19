@@ -1,11 +1,5 @@
 # tumblrd
-Tumblr picture downloader
-
-## Getting started
-
-```
-npm install tumblrd
-```
+Tumblr photo downloader
 
 ## Authenticate yourself to use the API
 Register a tumblr app and add a file ```config.js``` as seen below in this folder.

@@ -1,12 +1,6 @@
 # tumblrd
 Tumblr picture downloader
 
-## Getting started
-
-```
-npm install tumblrd
-```
-
 ## Authenticate yourself to use the API
 Register a tumblr app and add a file ```config.js``` as seen below in this folder.
 Add your consumer key, secret key is not needed.

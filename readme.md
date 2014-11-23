@@ -14,6 +14,6 @@ module.exports = {
 ## Using the script
 
 ```
-$ ./bin/cli.js (blog url) (optional destination)
-$ ./bin/cli.js someblog.tumblr.com output-dir
+$ ./bin/cli.js (blog url) (optional destination) (--v verbose flag)
+$ ./bin/cli.js someblog.tumblr.com output-dir --v
 ```

@@ -1,0 +1,7 @@
+env:
+    node: true
+
+rules:
+    curly: 2
+    quotes:
+        - 1
